@@ -1,5 +1,5 @@
-import os
-import pyaes
+import os ##importa a biblioteca os para enviar comandos ao sistema operacional
+import pyaes ## importa a biblioteca pyaes para utilizar comando de criptografia
 
 ## abrir o arquivo a ser criptografado
 
